@@ -9,7 +9,7 @@
 
   #### **Objective:**
 
-### Practice extracting data, cleaning, and transforming the **Car Evaluation Dataset**.
+### **Practice extracting data, cleaning, and transforming the **Car Evaluation Dataset**.
 
 ---
 
